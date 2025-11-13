@@ -20,3 +20,17 @@ nbdist/
 # OS specific
 .DS_Store
 Thumbs.db
+
+# Exclude other assignment questions
+src/Question_1/
+src/Question_3/
+
+# Exclude question 3 images
+boat.png
+boat_land.png
+land.png
+
+# NetBeans build files
+build.xml
+manifest.mf
+nbproject/
